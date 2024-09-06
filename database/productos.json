@@ -1,0 +1,27 @@
+[
+    {
+        "nombre": "Espresso",
+        "precio": 1500,
+        "imagen": "../assets/espresso.jpg"
+    },
+    {
+        "nombre": "Capuchino",
+        "precio": 2500,
+        "imagen": "../assets/capuchino.jpg"
+    },
+    {
+        "nombre": "Latte",
+        "precio": 3500,
+        "imagen": "../assets/latte.jpg"
+    },
+    {
+        "nombre": "Media Luna",
+        "precio": 500,
+        "imagen": "../assets/medialunas.jpg"
+    },
+    {
+        "nombre": "Promoción",
+        "precio": 3000,
+        "imagen": "../assets/promocion.jpg"
+    }
+]

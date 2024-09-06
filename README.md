@@ -1,1 +1,3 @@
-#2daRe-EntregaReivajVargas
+#Entrega Final Javascript Reivaj Vargas
+
+#En este proyecto, apreciamos un simulador basico de Cafeteria Online, con un pequeño menu los cuales al hacer click, podra elegirse la opcion para llevar o servir,tambien debera registrar datos basicos para mostrar un resumen de su pedido al finalizar. No se requiere datos de Login de usuario ni contraseñas, ya que se trata de una cafeteria con acceso a todo publico.  PD: Las paginas adcionales como, menu, contacto y sobre nosotros no estan incluidas aun en el proyecto.

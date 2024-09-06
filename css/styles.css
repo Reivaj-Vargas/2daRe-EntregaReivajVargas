@@ -4,3 +4,23 @@ body{
     background-image: url(../assets/B.jpg);
 }
  
+#carrito-nav {
+    position: relative;
+  }
+  
+  #carrito-nav .carrito-content {
+    display: none; 
+    position: absolute;
+    top: 100%;
+    right: 0;
+    background-color: white;
+    border: 1px solid #ddd;
+    box-shadow: 0 4px 8px rgba(0,0,0,0.2);
+    z-index: 1000;
+    padding: 10px;
+  }
+  
+  #carrito-nav:hover .carrito-content {
+    display: block;
+  }
+  
